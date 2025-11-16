@@ -49,7 +49,7 @@ Each model was evaluated using:
 
 ## Challenges and Decisions
 - Determining the appropriate polynomial degree required experimentation, as higher degrees quickly caused overfitting.
-- Choosing regularization strengths (alpha values) involved balancing bias and variance.
+- Choosing regularization strengths involved balancing bias and variance.
 - Visualizing the model results was essential to understanding where certain models performed poorly or overfit the data.
 - Some features in the dataset contributed weakly, making feature selection methods like Lasso particularly helpful.
 
